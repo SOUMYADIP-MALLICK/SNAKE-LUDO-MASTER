@@ -31,6 +31,11 @@ open the Link to see the screenshorts of the game.
 https://drive.google.com/file/d/1ihUB_I5FRU2pLFMUiwzuWMp7kyiNA7ZO/view?usp=drivesdk
 
 
+![menu](https://user-images.githubusercontent.com/106270990/173722795-7105ff53-68a9-4415-8590-2685702400a1.png)
+
+![Game](https://user-images.githubusercontent.com/106270990/173722847-11677c61-31d9-49c9-bad3-9ea5c023f71a.png)
+
+
 ## Author
 
 This game is made by myself.
@@ -49,8 +54,6 @@ you have to use windows os to run the program.
 https://drive.google.com/file/d/1jvwXOzuRjvceNQMvDkhL19fZvw_QCmYy/view?usp=drivesdk
 
 also you can run the code from snake_ludo_master.cpp
-file uploaded in the repo.
-
 
 
 
